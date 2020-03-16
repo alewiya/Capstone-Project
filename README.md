@@ -7,6 +7,6 @@ Features includes
 
 .Users Tasks:Create posts,Edit posts,Remove post.
 
-Technologies: I built this Website using Java Spring Boot , with persistent data stored in Mysql database, styled with Bootstrap and Css.
+Technologies: I built this Website using Java Spring Boot , with persistent data stored in Mysql database,Spring security to enhances Security,and styled with Bootstrap and Css.
 
 
