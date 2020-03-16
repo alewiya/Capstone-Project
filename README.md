@@ -7,4 +7,6 @@ Features includes
 
 .Users Tasks:Create posts,Edit posts,Remove post.
 
-Technology Used to develop the website is Java spring boot,spring secruity styled by Css,BootStrap.
+Technologies: I built this Website using Java Spring Boot , with persistent data stored in Mysql database, styled with Bootstrap and Css.
+
+
